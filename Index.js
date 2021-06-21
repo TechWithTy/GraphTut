@@ -6,7 +6,7 @@ const graphql, {GraphQLObjectType, GraphQLSchema, GraphQLInt,GraphQLString} = re
 const { graphqlHTTP } = require('express-graphql');
 
 
-
+//
 const RootQuery = "query";
 const Mutation = "mutation";
 
